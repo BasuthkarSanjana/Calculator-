@@ -2,7 +2,7 @@
 Calculator Application
 Description
 
-The Calculator Application is a simple, easy-to-use tool for performing basic arithmetic operations. It is designed to help users quickly and accurately perform calculations including addition, subtraction, multiplication, and division. The application is built using HTML, CSS, and JavaScript for web platforms
+The Calculator Application is a simple, easy-to-use tool for performing basic arithmetic operations. It is designed to help users quickly and accurately perform calculations including addition, subtraction, multiplication, and division. The application is built using HTML, CSS, and JavaScript for web platforms 
 
 Features
 
